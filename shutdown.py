@@ -14,4 +14,4 @@ while True:
     if input_state == False:
         os.system("sudo halt")
         time.sleep(0.2)
-	    GPIO.cleanup()
+        GPIO.cleanup()
