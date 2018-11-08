@@ -30,7 +30,7 @@ python /home/pi/clearSpinButton.py &
 
 # Trigger the motor 1 hour before you wake up
 
-For this step, you have to modify the [crontab](http://github.com)crontab.
+For this step, you have to modify the [crontab](http://github.com).
 Just add this line:
 ```
 30 6 * * * python /home/pi/spinForward.py
