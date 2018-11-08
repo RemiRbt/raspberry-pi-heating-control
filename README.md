@@ -1,7 +1,9 @@
 # Raspberry PI heating control project
 
 This is a small project to turn on the heater automatically 1h before waking up.
-Integrating shutdown button and reset motor position button.
+The goal is to fix the motor blades to the heating potentiometer.
+It contains the integration of the shutdown button and reset motor position button.
+
 
 You'll need:
 - Raspberry Pi (any model)
